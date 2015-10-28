@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Titor Jaraba" APIVersion="11" Name="RPF" Description="RPF Addon">
+    <Script Name="LibJSON-2.5.lua"/>
+    <Script Name="RPF.lua"/>
+    <Form Name="RPF.xml"/>
+</Addon>
